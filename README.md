@@ -1,9 +1,8 @@
 
-
 mod from HighContrast GTK-2theme,
 bios-like (HighContrast) and console-like (HighContrast2),
 using conky from my friend with i3bar (including i3 config scrypt),
-thanks for Adam Moore/LÆMEUR for adding LessPerfectVGA font,
+thanks to Adam Moore/LÆMEUR for made LessPerfectVGA font from Perfect DOS VGA 437 Win font,
 you can download console-like/bios-like fonts at: http://laemeur.sdf.org/fonts/
 
 screenshoot
